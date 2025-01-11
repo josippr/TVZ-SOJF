@@ -1,0 +1,7 @@
+Ime Prezime Ocjena
+
+John Doe 85
+
+Jane Smith 92
+
+Amy White 95
